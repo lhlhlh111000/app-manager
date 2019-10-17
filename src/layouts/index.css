@@ -1,0 +1,58 @@
+
+.normal {
+  font-family: Georgia, sans-serif;
+  text-align: center;
+  height: 100%;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: normal;
+  letter-spacing: -1px;
+  background: darkslateblue;
+  padding: .6em 0;
+  color: white;
+  margin: 0;
+}
+
+.content {
+  height: 100%;
+}
+
+.logo {
+  width: 120px;
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 28px 16px 0;
+  float: left;
+}
+
+.login {
+  float: right;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-left: 8dp;
+  padding-right: 8dp;
+}
+
+.login img {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+  float: left;
+}
+
+.login li {
+  float: right;
+  color: aliceblue;
+  padding: 8dp;
+}
+
+.breadcrumbs {
+  width: 100%;
+  background-color: white;
+  padding: 10px;
+  text-align: left;
+}

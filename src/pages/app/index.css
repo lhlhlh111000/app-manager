@@ -1,0 +1,22 @@
+.container {
+    width: 100%;
+    text-align:center;
+}
+.header {
+    padding: 14px;
+    text-align: left;
+}
+.new {
+    float: right;
+}
+.list {
+    margin-top: 14px;
+    padding: 14px;
+    width: 100%;
+    margin-left: 14px;
+    margin: 0 auto;
+}
+.card {
+    width: 100%;
+    text-align: center;
+}

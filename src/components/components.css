@@ -1,0 +1,26 @@
+.img {
+    width: 96px;
+    height: 96px;
+    margin-bottom: 10px;
+}
+.itemContainer {
+    width: 100%;
+    text-align: center;
+    padding: 14px;
+}
+.itemStyle {
+    vertical-align: middle;
+    text-align: center;
+}
+.text {
+    margin-top: 10px;
+    padding: 10px;
+    color: #333333;
+    font-size: 18px;
+}
+.text2 {
+    margin-top: 10px;
+    padding: 10px;
+    color: #666666;
+    font-size: 16px;
+}
